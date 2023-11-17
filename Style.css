@@ -1,0 +1,108 @@
+
+ body{
+     background-color:#0d9486;
+        
+}
+ #In_h{
+       color:Blue;
+       background-color:#cfb71d;
+       text-decoration:underline wavy;
+       text-align:center;
+       font-weight:900;
+       font-family:ui-serif;
+       font-size:25px
+ }
+ #g_h{
+       text-align:center;
+       color:Blue;
+       background-color:#cfb71d;
+       text-decoration: underline wavy;
+       font-family:ui-serif;
+       font-size:25px;
+ }
+ #brahma_h{
+       text-align:center;
+       color:Blue;
+       background-color:#cfb71d;
+       text-decoration: underline wavy;
+       font-family:ui-serif;
+       font-size:25px
+ }
+ a{
+  text-decoration:none;
+  color:white;
+  font-family:cursive;
+  
+ }
+ p{
+     text-align:left;    
+     color:#acfa02;
+     font-family:cursive;
+ }
+ #Hm_h{
+    text-align:center;    
+    font-size:25px;
+    color:#e810d2;
+    background-color:#03fc45;
+    font-family:fantasy;
+ }
+ #Pen_h {
+    text-align: center;
+    font-size: 25px;
+    color: #e810d2;
+    background-color: #03fc45;
+    font-family: fantasy;
+  }
+ #Narmada_h {
+    text-align: center;
+    color: Blue;
+    background-color: #cfb71d;
+    text-decoration: underline wavy;
+    font-family: ui-serif;
+  }
+ #Tapi_h{text-align: center;
+   color: Blue;
+   background-color: #cfb71d;
+   text-decoration: underline wavy;
+   font-family: ui-serif;}
+ #Godavari_h {
+      text-align: center;
+      color: Blue;
+      background-color: #cfb71d;
+      text-decoration: underline wavy;
+      font-family: ui-serif;
+   }
+ #Mahanadi_h{
+      text-align: center;
+      color: Blue;
+      background-color: #cfb71d;
+      text-decoration: underline wavy;
+      font-family: ui-serif;
+   }
+ #Krishna_h{
+   text-align: center;
+   color: Blue;
+   background-color: #cfb71d;
+   text-decoration: underline wavy;
+   font-family: ui-serif;
+ }      
+ #Kaveri_h{
+   text-align: center;
+   color: Blue;
+   background-color: #cfb71d;
+   text-decoration: underline wavy;
+   font-family: ui-serif;
+ }
+div{
+   background-color:black;
+   color:White;
+   display:inline;
+   font-size:25px   
+}
+#WEP{
+ text-align: center;
+   color: Blue;
+   background-color: #cfb71d;
+   text-decoration: underline wavy;
+   font-family: ui-serif;
+}
