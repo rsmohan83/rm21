@@ -14,7 +14,7 @@ overflow:auto;
 .navbar li a{
 padding:3px 3px;
 text-decoration:none;
-color:green;
+color:#ffff66;
 }
 .navbar li a:hover{
 color:red;
