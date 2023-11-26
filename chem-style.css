@@ -1,5 +1,5 @@
 .navbar-chem{
-background-color:black;
+background-color:#ffaa00;
 border-radius:30px;
 }
 .navbar-chem li{
@@ -14,7 +14,7 @@ overflow:auto;
 .navbar-chem li a{
 padding:3px 3px;
 text-decoration:none;
-color:white;
+color:#00bfff;
 }
 .navbar-chem li a:hover{
 color:red;
