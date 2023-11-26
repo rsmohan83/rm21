@@ -17,7 +17,7 @@ text-decoration:none;
 color:#ffff66;
 }
 .navbar li a:hover{
-color:light-green;
-background-color:dark-blue;
+color:green;
+background-color:blue;
 font-size:20px
 }
