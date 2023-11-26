@@ -102,11 +102,13 @@ float:left;
 list-style:none;
 padding:3px 3px;
 margin:30px 25px;
+font-size:20px;
 }
 .navbar ul{
 overflow:auto;
 }
 .navbar li a{
+font-size:20px;
 padding:3px 3px;
 text-decoration:none;
 color:#ffff66;
