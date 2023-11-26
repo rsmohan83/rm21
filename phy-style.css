@@ -56,7 +56,7 @@ border-radius:30px;
 float:left;
 list-style:none;
 padding:3px 3px;
-margin:10px 10px;
+margin:12px 20px;
 }
 .navbar ul{
 overflow:auto;
@@ -69,5 +69,5 @@ color:white;
 .navbar li a:hover{
 color:red;
 background-color:yellow;
-animation-direction:reverse;
+font-size:15px
 }
