@@ -1,5 +1,5 @@
 .navbar{
-background-color:black;
+background-color:purple;
 border-radius:30px;
 }
 .navbar li{
@@ -14,7 +14,7 @@ overflow:auto;
 .navbar li a{
 padding:3px 3px;
 text-decoration:none;
-color:white;
+color:green;
 }
 .navbar li a:hover{
 color:red;
