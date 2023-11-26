@@ -1,1 +1,26 @@
-hi
+.navbar{
+background-color:purple;
+border-radius:30px;
+}
+.navbar li{
+float:left;
+list-style:none;
+padding:3px 3px;
+margin:12px 10px;
+}
+.navbar ul{
+overflow:auto;
+}
+.navbar li a{
+padding:3px 3px;
+text-decoration:none;
+color:#ffff66;
+}
+.navbar li a:hover{
+color:#ffb366;
+background-color:blue;
+font-size:15px
+}
+body{
+background-color:white;
+}
