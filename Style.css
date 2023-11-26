@@ -158,7 +158,7 @@ text-align: center;
   padding:3px 3px;
   margin:9px 10px;
   list-style:none;
-  font-size:7px;
+  font-size:30px;
 }
 .navbar li a {
   padding:3px 3px;
@@ -168,5 +168,5 @@ text-align: center;
 .navbar li a:hover{
   color:red;
   background-color:#00FFB5;
-  font-size:10px;
+  font-size:40px;
 }
