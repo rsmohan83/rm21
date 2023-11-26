@@ -69,5 +69,5 @@ color:white;
 .navbar li a:hover{
 color:red;
 background-color:yellow;
-animation-direction:right to left;
+animation-direction:reverse;
 }
